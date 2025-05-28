@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: www.linkedin.com/in/alexandra-mensah-934624227
-image: /assets/images/Profile.jpg
+image: /assets/images/Profile.png
 ---
