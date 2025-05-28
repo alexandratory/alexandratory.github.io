@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Alexandra Mensah
 description: CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "🎓 Senior, Cyber Security @ Morgan State University"
+  - "🔬 Research: Water Contamination Detection using AI"
+  - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/me.jpg
+linkedin: www.linkedin.com/in/alexandra-mensah-934624227
+image: /assets/images/Profile.jpg
 ---
