@@ -7,7 +7,7 @@ about:
   name: Alexandra Mensah
   role: Senior, Cyber Seurity University
   image: /assets/images/Profile.jpg
-  linkedin: www.linkedin.com/in/alexandra-mensah-934624227
+  linkedin: https://www.linkedin.com/in/alexandra-mensah-934624227/
   bio: |
     I’m currently a Senior studying Cyber Security at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
