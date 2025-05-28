@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Alexandra Mensah
   role: Senior, Cyber Seurity University
-  image: /assets/images/me.jpg
+  image: /assets/images/Profile.jpg
   linkedin: www.linkedin.com/in/alexandra-mensah-934624227
   bio: |
     I’m currently a Senior studying Cyber Security at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
@@ -24,12 +24,12 @@ about:
       description: I love modding video games like final Fantasy and The last of us.
 
   gallery:
-    - image: /assets/images/me-guitar.png
+    - image: /assets/images/Profile.jpg
       caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
+    - image: /assets/images/Profile.jpg
       caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
+    - image: /assets/images/Profile.jpg
       caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
+    - image: /assets/images/Profile.jpg
       caption: Working on a personal project w/ the Raspberry PI
 ---
