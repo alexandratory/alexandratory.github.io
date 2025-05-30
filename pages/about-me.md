@@ -25,7 +25,7 @@ about:
 
   gallery:
     - image: /assets/images/movie.png
-      caption:my favorite movie
+      caption: My favorite movie
     - image: /assets/images/Profile.jpg
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/Profile.jpg
