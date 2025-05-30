@@ -3,34 +3,41 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Water Contamination Detection Using AI
+project_title: "Water Contamination Detection Using AI"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+ The level of a contaminant in drinking water below which there is no known or expected risk to health.  PHGs are set by the California Environmental Protection Agency.
+Maximum Residual Disinfectant Level 
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+
+
+  This project seeks to explore Common sources of contamination: industrial discharge, agricultural runoff, sewage. We are Providing a general overview of water quality issues and the potential of AI in solving them.
+
+
+
 
 approach: |
-  The project follows a four-phase pipeline:
+  Dive into the core topic: using AI to improve water quality monitoring.
+Include:
+AI techniques (e.g., machine learning, neural networks, anomaly detection)
+Real-time data processing from sensors
+Case studies and research findings:
+"Laboratory Development of an AI System..."
+"Real-time Water Quality Monitoring using AI-enabled sensors" (ScienceDirect)
+"Applications of IoT and AI in Water Quality Monitoring" (IEEE)
+"Smart Water Quality Monitoring with IoT Wireless Sensor Networks"
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
-
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+  By the end of the program, we hope to develop a real-time water quality monitoring system using sensors, analyze collected data with AI models, and contribute to optimizing contamination detection algorithms for accurate predictions, thereby advancing the body of research on AI-driven solutions for environmental monitoring and water safety.
+final_report_url: 
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Olorunfunmi Shobowale
+  linkedin: 
 
-faculty_mentor:
-  name: Dr. Elijah Freeman
+faculty_mentor: Dr. Steve Efe
+  name: 
   linkedin: https://www.linkedin.com/in/dr-elijah-freeman
 ---
