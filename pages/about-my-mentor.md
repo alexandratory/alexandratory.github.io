@@ -1,26 +1,37 @@
 ---
-layout: mentor
-title: About My Mentors
-permalink: /about-my-mentor.html
+layout: project
+title: About My Project
+permalink: /about-my-project.html
 
-graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
-  bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+subtitle: Smart Water Contamination Detection 
+project_title: "Smart Water Contamination Detection Using AI Model"
+
+problem: |
+  This research project focuses on developing a real-time water quality monitoring system using Artificial Intelligence (AI) technologies. Our system leverages AI-powered algorithms combined with low-cost, distributed sensors to detect contaminants such as lead, E. coli, and nitrates in various water sources. These smart sensors collect live data, which is then processed using machine learning techniques for rapid anomaly detection and predictive analysis. This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+
+approach: |  
+  Real-time data processing from sensors
+
+  Case studies and research findings:
+
+  "Laboratory Development of an AI System..."
+
+  "Real-time Water Quality Monitoring using AI-enabled sensors" (ScienceDirect)
+
+  "Applications of IoT and AI in Water Quality Monitoring" (IEEE)
+
+  "Smart Water Quality Monitoring with IoT Wireless Sensor Networks"
+
+
+outcome: |
+  By the end of the program, the project will result in a working prototype.
+final_report_url:
+
+grad_mentor:
+  name: Olorunfunmi Shobowale
+  linkedin: 
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
-  bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
-
+  name: 
+  linkedin: https://www.linkedin.com/in/
 ---
