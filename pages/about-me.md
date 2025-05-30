@@ -15,7 +15,7 @@ about:
   hobbies:
     - icon: 📸
       title: Video Editing, Photography, Films, Acting
-      description: I’ve been playing 
+      description: I’ve been working on scripts and playing around with fashion photography on my free time. Im heavily inspired by many films. 
     - icon: 🤖
       title: Cyber security Vulnerability projects
       description: I enjoy Certificate based websites for cyber security.
@@ -24,8 +24,8 @@ about:
       description: I love modding video games like final Fantasy and The last of us.
 
   gallery:
-    - image: /assets/images/Profile.jpg
-      caption: Playing guitar at the park!
+    - image: /assets/images/movie.png
+      caption:my favorite movie
     - image: /assets/images/Profile.jpg
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/Profile.jpg
