@@ -27,9 +27,5 @@ about:
     - image: /assets/images/movie.png
       caption: My favorite movie
     - image: /assets/images/Profile.jpg
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/Profile.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/Profile.jpg
-      caption: Working on a personal project w/ the Raspberry PI
+      caption: my fav video game
 ---
