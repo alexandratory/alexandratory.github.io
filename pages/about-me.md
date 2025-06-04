@@ -26,6 +26,8 @@ about:
   gallery:
     - image: /assets/images/movie.png
       caption: My favorite movie
-    - image: /assets/images/tlou.jpg
+    - image: /assets/images/abby.png
       caption: my fav video game
+    - image: /assets/images/
+      caption: 
 ---
