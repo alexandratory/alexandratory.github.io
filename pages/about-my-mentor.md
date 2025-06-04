@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alexandra Mensah
+  name: Olorunfunmi Shobowale
   title: MS Student, Advanced Computing
   image: /assets/images/graduate-mentor.png
   website: https://www.linkedin.com/in/olorunfunmi-shobowale-ba352ba7/
