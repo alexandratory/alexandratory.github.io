@@ -28,6 +28,6 @@ about:
       caption: My favorite movie
     - image: /assets/images/abby.png
       caption: my fav video game
-    - image: /assets/images/
-      caption: 
+    - image: /assets/images/divici.png
+      caption: A software editing app that I use
 ---
