@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Day 18 – Data Collection and Machine Learning Setup"  
+date: 2025-06-18  
+author: Alexandra Mensah  
+permalink: /day18.html 
+tags:  
+  - Arduino  
+  - ESP32  
+  - Machine Learning  
+  - Firebase  
+  - Data Analysis  
+
+what_i_learned: |  
+  Today, I focused on collecting data from the sensors connected to the ESP32 and preparing it for machine learning. Using the Arduino IDE, I was able to capture sensor readings from the pH and turbidity sensors and save the data as .csv files for analysis. This process helped me understand how the ESP32 handles analog inputs and converts them into data points.  
+  I also began setting up the workflow in Google Colab to preprocess the collected data. I applied labeling techniques and learned new visualization methods, such as scatterplots, to identify trends in the dataset. Additionally, I worked on uploading this data to Firebase for real-time monitoring, which is important because of maintaining data accuracy.  
+   I also experimented with basic predictive models to see how the collected data could be used for contamination risk assessment, which was exciting and highlighted areas for improvement in the dataset.
+
+blockers: |  
+ One challenge was working with the breadboard and ESP32 together. The ESP32's wide pin spacing made fitting it into the breadboard difficult without careful alignment. This created occasional issues with loose connections, particularly when attaching jumper wires to power and ground rails.  
+  Another blocker was configuring Firebase for seamless real-time syncing with the ESP32. While the connection was established, debugging mismatches in data formatting between the ESP32 code and Firebase caused delays. Lastly, setting up the initial labeling structure in the dataset was tricky since we’re still refining our understanding of contamination risk thresholds for our predictions.  
+
+reflection: |  
+  Today was a great step forward in applying the hardware and software in our project. Seeing the sensor data flow from the ESP32 to a .csv file and then to Google Colab was very shocking because it was super simple when it came to reading the output. Although the process was not without its challenges, I learned the importance of debugging hardware issues and and making sure that we are getting accurate collected data.  
+  Working with Firebase for real-time monitoring made me think harder about the style and how it could implemeted in our project, showcasing how IoT devices can be combined with cloud services for effective data analysis. I also realized how much preparation and thought goes into labeling and structuring data for machine learning, which is important for building reliable models. Overall, today strengthened my skills in data collection, preprocessing, and integration.  
+---
+
