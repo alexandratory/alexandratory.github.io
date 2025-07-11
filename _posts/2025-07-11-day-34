@@ -1,0 +1,25 @@
+---
+layout: post  
+title: "Day 34 – Testing Firebase Data Flow and Team Feedback"  
+date: 2025-07-02  
+author: Alexandra Mensah  
+permalink: /day34.html  
+tags:  
+  - Firebase  
+  - Sensor Data  
+  - Team Collaboration  
+  - Troubleshooting  
+
+what_i_learned: |  
+  Today we focused on testing the connection between our ESP32 sensors and Firebase. We wanted to make sure the data from the pH, turbidity, and TDS sensors is uploading correctly and in real time. I checked the values through the Serial Monitor and confirmed they matched what was showing in the Firebase database.  
+  We also reviewed the structure of our Firebase database to make it more organized and easier to read. I learned how to clean up the path names and check for errors when the data doesn’t show up.  
+  Our team shared feedback with each other to help improve our final report and slides. It helped me understand where I could be clearer when explaining how our system works.  
+
+blockers: |  
+  Some sensor values still didn’t show up correctly in Firebase at first. We had to restart the ESP32 and double-check the Wi-Fi and API key settings.  
+  Sometimes the database updates slowly, which makes it hard to test in real time. We may need to add delays or check the code again.  
+
+reflection: |  
+  I feel like our project is coming together now that we can see the sensor values online. It makes it feel real. It was helpful to get feedback from the team because sometimes I assume people understand what I mean. I’m learning to explain the technical parts in a simpler way. I’m also proud of how we’re solving these issues as a group and staying focused for the final presentation.
+---
+ 
